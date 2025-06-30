@@ -2,7 +2,7 @@
 
 # Hola👋, Bienvenidos a mi perfil de Github
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Marcia+Gabrielle...;Tenho+21+anos+...;Estudante+de+Ciência+da+Computação..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mi+Nombre+es+Noelia...;Tengo+33+años+...;Estudante+de+Ingenieria+en+sistemas+de+información..."/>
 
  <p>- <i>¡Hola! Me llamo Noelia y actualmente, estoy estudiando Ingeniería en Sistemas de Información, cursando mis últimas materias para recibirme. Me encanta mantenerme al día con las últimas tecnologías y siempre estoy buscando aprender cosas nuevas para expandir mis conocimientos y mejorar mis proyectos. Tengo experiencia tanto en Frontend como en Backend. Mis habilidades incluyen el manejo de JavaScript, MongoDB y MySQL.</i></p>
 
