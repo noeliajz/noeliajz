@@ -17,23 +17,25 @@
 
 <hr>
 
+## 🛠️ My Favorite Tools
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarciaGabrielle&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+### 👨‍💻 Programming Languages
+
+<p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+
+### 🧰 Frameworks and Libraries
+
+<p>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+
 </p>
-<div>
-<div align="center">  
-  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=MarciaGabrielle&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Marcia Gabrielle github stats" /> 
-  <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarciaGabrielle&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
-</div>
-<div>
-
-<div align="center"> 
-<a href="https://www.instagram.com/marcy_bonifacio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:cmp.1a.gabybonifacio2@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/marcia-oliveira-956994205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
 
 
 ### Estudiando en estos momentos:
