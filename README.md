@@ -12,7 +12,7 @@
 
 </br>
 
-- 💻 Estudiando Ingeniería en sistemas de información
+- 💻 Estoy estudiando Ingeniería en sistemas de información
 - 📫 Como contactarme : noeliajudithzelayautnfrt@gmail.com
 - 📝 Perfil de Linkedin: www.linkedin.com/in/zelayanoeliajudith
 
