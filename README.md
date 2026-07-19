@@ -23,7 +23,7 @@
 
 - 🔬 **Investigadora** en el laboratorio **GIITNI (UTN FRT)**, en el proyecto **PID TUTOTCI1074** — trazabilidad y validación de decisiones con IA, Blockchain y Arquitectura orientada a eventos.
 - 📊 Estoy construyendo **proyectos de Power BI de punta a punta**: modelado de datos, medidas DAX y dashboards, que vas a encontrar documentados en mi portfolio y en los repos de este perfil.
-- 📚 Formación reciente: curso de **Power BI (Nivel Inicial, 20 hs) – UTN Buenos Aires**.
+- 📚 Formación reciente: curso de **Power BI – UTN Buenos Aires**. Curso de **Excel**
 
 ---
 
@@ -34,25 +34,11 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
-
-<details>
-<summary><b>💻 Stack complementario (desarrollo fullstack)</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-</details>
 
 ---
 
 ### 📊 Proyectos de Análisis de Datos
-
-*(Repos pinneados y filtrados — separados de mis proyectos de desarrollo de software)*
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
