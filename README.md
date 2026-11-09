@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Noelia Zelaya 👋</h1>
-<h3 align="center">Analista Universitaria de Sistemas (UTN FRT) | Rindiendo las últimas materias de Ingeniería en Sistemas de Información | Data Analyst en formación | Power BI · SQL · MySQL Workbench . DBeaver </h3>
+<h3 align="center">Analista Universitaria de Sistemas (UTN FRT) | Rindiendo las últimas materias de Ingeniería en Sistemas de Información | Data Analyst en formación | Power BI · SQL · MySQL Workbench · DBeaver </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zelayanoeliajudith" target="_blank">
@@ -22,7 +22,8 @@
 ### 🎯 Sobre mí
 
 - 🔬 **Investigadora** en el laboratorio **GIITNI (UTN FRT)**, en el proyecto **PID TUTOTCI1074** — trazabilidad y validación de decisiones con IA, Blockchain y Arquitectura orientada a eventos.
-- 📊 Estoy construyendo **proyectos de Power BI de punta a punta**: modelado de datos, medidas DAX y dashboards, que vas a encontrar documentados en mi portfolio y en los repos de este perfil.
+- 📊 Estoy construyendo **proyectos de Power BI de punta a punta**: modelado de datos, medidas DAX y dashboards, que vas a encontrar documentados en mi portfolio.
+- 🗃️ Practicando **SQL con MySQL** sobre datos abiertos de Argentina (ver más abajo).
 - 📚 Formación reciente: curso de **Power BI – UTN Buenos Aires**
 
 ---
@@ -38,19 +39,19 @@
 
 ---
 
-### 📊 Proyectos de Análisis de Datos
+### 🗃️ Práctica de SQL
 
-| Proyecto | Descripción | Stack |
+Estoy aprendiendo SQL con MySQL, practicando sobre un dataset público de inversión en I+D de Argentina ([Datos Argentina](https://www.datos.gob.ar/)).
+
+| Repositorio | Descripción | Stack |
 |---|---|---|
-| [facturacionYcobranzas](https://github.com/noeliajz/facturacionYcobranzas) | Análisis de facturación y cobranzas: modelado de datos, medidas DAX y dashboard sobre ventas, cobros y desempeño comercial | Power BI · SQL |
-| [cafeteria](https://github.com/noeliajz/cafeteria) | Análisis de ventas de una cadena de cafeterías: dataset simulado (400 ventas, 4 sucursales), modelado en Power Query y dashboard de ventas, productos y clientes | Power BI · Excel |
-
-📁 Ver todos con la etiqueta `data-analysis` → [filtrar acá](https://github.com/noeliajz?tab=repositories&q=&type=&language=&sort=&topic=data-analysis)
+| [portfolio-datos](https://github.com/noeliajz/portfolio-datos) | Ejercicios de SQL sobre inversión en I+D (2004-2024): filtros, agregaciones, `GROUP BY`, `CASE` y funciones de ventana | MySQL · MySQL Workbench |
 
 ---
 
 ### 🚧 En qué estoy trabajando ahora
 
+- 🗃️ Práctica de SQL con MySQL (MySQL Workbench y luego DBeaver) — [portfolio-datos](https://github.com/noeliajz/portfolio-datos).
 - 📈 Proyectos de Power BI (modelado, DAX, dashboards) — documentados en mi [portfolio de Notion](https://handsome-homegrown-dda.notion.site/Portfolio-Noelia-Zelaya-3a2422c96d3c8072bb18f9347d38dc55).
 - 🎓 Trabajo Final de Grado: **Sistema Integral de Gestión del Consejo Departamental** (React + Flask + MySQL).
 - 🔬 Investigación aplicada en GIITNI sobre trazabilidad de datos en el sector agroindustrial de Tucumán.
