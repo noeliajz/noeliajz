@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Noelia Zelaya 👋</h1>
-<h3 align="center">Analista Universitaria de Sistemas (UTN FRT) | Data Analyst en formación | Power BI · SQL · Excel</h3>
+<h3 align="center">Analista Universitaria de Sistemas (UTN FRT) | Rindiendo las últimas materias de Ingeniería en Sistemas de Información | Data Analyst en formación | Power BI · SQL · MySQL Workbench . DBeaver </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zelayanoeliajudith" target="_blank">
@@ -23,7 +23,7 @@
 
 - 🔬 **Investigadora** en el laboratorio **GIITNI (UTN FRT)**, en el proyecto **PID TUTOTCI1074** — trazabilidad y validación de decisiones con IA, Blockchain y Arquitectura orientada a eventos.
 - 📊 Estoy construyendo **proyectos de Power BI de punta a punta**: modelado de datos, medidas DAX y dashboards, que vas a encontrar documentados en mi portfolio y en los repos de este perfil.
-- 📚 Formación reciente: curso de **Power BI – UTN Buenos Aires**. Curso de **Excel**
+- 📚 Formación reciente: curso de **Power BI – UTN Buenos Aires**
 
 ---
 
